@@ -1,4 +1,4 @@
-#CSE 499 River discharge prediction using 
+# CSE 499 River discharge prediction using 
 
 Machine Learning Technqiues | Flood Prediction
 This repo contains the codebase, files of the project for CSE 499 course.
