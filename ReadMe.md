@@ -8,4 +8,4 @@ For instance, the Random Forest notebook can be found here:
 
 [![RF Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i01wxm_mF0qWNaDrAqiI2APw_ugEgdU4?usp=sharing)
 
-To run other notebooks, please check go to: [a link](https://github.com/IfuChan/CSE-499-Flood-Forecasting/tree/main/Other%20ML%20Model%20Notebooks)
+To run other notebooks, please check go to: [Other notebooks](https://github.com/IfuChan/CSE-499-Flood-Forecasting/tree/main/Other%20ML%20Model%20Notebooks)
